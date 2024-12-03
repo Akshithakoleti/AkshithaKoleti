@@ -1,4 +1,4 @@
-<img align='center' src= "images/header.png">
+<img align='center' src= "header.png">
 <div align="center">
 <a href = "https://drive.google.com/file/d/1YeKphYAMdXwv0ZKrBBBXsxCpcnC4rgXI/view?usp=sharing" ><img src="https://img.shields.io/badge/My_CV-Akshitha-blue" width="200" height="35"></a>
 </div>
