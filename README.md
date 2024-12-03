@@ -95,7 +95,7 @@ To secure a challenging <b>DevOps Engineer</b> role in a dynamic and innovative 
 
 
 <div align="center">
-<h1>✍🏻 Read My Books on <a href = "https://www.wattpad.com/story/351018092-two-flavors-of-solitude?utm_source=web&utm_medium=email&utm_content=share_myworks" >@Wattpad</a></h1>
+
  
 
  
