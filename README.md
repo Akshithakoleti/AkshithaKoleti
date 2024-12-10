@@ -13,8 +13,7 @@
 
 
 <p align="center" width="150px"> 
-I am <b>AKSHITHA KOLETI</b>, an aspiring Cloud Computing Professional based in Bangalore, Karnataka. Holding a Bachelor of Science degree in <b>Computer Technology</b>, I have cultivated a strong academic foundation in the field. Additionally, I have pursued a comprehensive <b>Cloud Computing course</b> focused on Linux, AWS (Amazon Web Services), and DevOps, demonstrating my commitment to staying abreast of industry-leading technologies. This specialized training has equipped me with practical skills in cloud infrastructure management, deployment automation, and <b>DevOps practices.</b> 
-To secure a challenging <b>DevOps Engineer</b> role in a dynamic and innovative organization where I can utilize my technical skills and knowledge to contribute to the continuous delivery and improvement of software applications, while expanding my experience in cloud computing and automation.
+I am <b>AKSHITHA KOLETI</b>, an aspiring Data Analyst Professional based in hyderabad, Telangana. Holding a BTECH, I have cultivated a strong academic foundation in the field. Additionally, I have pursued a comprehensive <b>Data Analyst</b> focused on Python, SQL, PowerBI, Microsoft Azure demonstrating my commitment to staying abreast of industry-leading technologies. This specialized training has equipped me with practical skills in <b> Data Analyst practices.</b> To secure a challenging <b>Data Analyst</b> role in a dynamic and innovative organization where I can utilize my technical skills and knowledge to contribute to the continuous delivery and improvement while expanding my experience as Data Analyst.
                              
 </p>
 
