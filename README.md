@@ -55,23 +55,6 @@ I am <b>AKSHITHA KOLETI</b>, an aspiring Data Analyst Professional based in hyde
 <hr>
 
 
-
-
-## <i>📞 Connect me 
-<div align="left">
-  <a href="mailto:anujj@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  
-  <a href="https://www.instagram.com/__mr_alien_x__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/anujj-p-v-906454246/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
- 
-</div>
-
 <p align='right'>
 <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
 </p>
